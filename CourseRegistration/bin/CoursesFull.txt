@@ -1,0 +1,2 @@
+Course Name                                       Course ID           Max Students        Current Students    List of Names                 Course Instructor                                 Course Section      Course Location     
+PAC II                                            CSCI-GA.1144        7                   0                   []                            Mohamed Zahran                                    1                   CIWW 312            
